@@ -1,0 +1,9 @@
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core\bin\Debug\netstandard2.0\SudokuSolver.Core.deps.json
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core\bin\Debug\netstandard2.0\SudokuSolver.Core.dll
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core\bin\Debug\netstandard2.0\SudokuSolver.Core.pdb
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core\obj\Debug\netstandard2.0\SudokuSolver.Core.csprojAssemblyReference.cache
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core\obj\Debug\netstandard2.0\SudokuSolver.Core.csproj.CoreCompileInputs.cache
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core\obj\Debug\netstandard2.0\SudokuSolver.Core.AssemblyInfoInputs.cache
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core\obj\Debug\netstandard2.0\SudokuSolver.Core.AssemblyInfo.cs
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core\obj\Debug\netstandard2.0\SudokuSolver.Core.dll
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core\obj\Debug\netstandard2.0\SudokuSolver.Core.pdb

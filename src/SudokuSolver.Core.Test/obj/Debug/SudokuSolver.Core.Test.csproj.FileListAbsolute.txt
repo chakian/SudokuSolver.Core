@@ -1,0 +1,14 @@
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\bin\Debug\SudokuSolver.Core.Test.dll
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\bin\Debug\SudokuSolver.Core.Test.pdb
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\obj\Debug\SudokuSolver.Core.Test.csprojAssemblyReference.cache
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\obj\Debug\SudokuSolver.Core.Test.csproj.CoreCompileInputs.cache
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\obj\Debug\SudokuSolver.Core.Test.csproj.CopyComplete
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\obj\Debug\SudokuSolver.Core.Test.dll
+E:\Projects\SudokuSolver\SudokuSolver.Core\src\SudokuSolver.Core.Test\obj\Debug\SudokuSolver.Core.Test.pdb

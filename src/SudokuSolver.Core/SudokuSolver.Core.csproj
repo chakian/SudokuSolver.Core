@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SudokuSolver.Entities\SudokuSolver.Entities.csproj" />
+  </ItemGroup>
+
 </Project>

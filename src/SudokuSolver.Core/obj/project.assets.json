@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "SudokuSolver.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SudokuSolver.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SudokuSolver.Entities.dll": {}
+        }
       }
     }
   },
@@ -168,11 +178,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "SudokuSolver.Entities/1.0.0": {
+      "type": "project",
+      "path": "../SudokuSolver.Entities/SudokuSolver.Entities.csproj",
+      "msbuildProject": "../SudokuSolver.Entities/SudokuSolver.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "SudokuSolver.Entities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -204,7 +220,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Projects\\SudokuSolver\\SudokuSolver.Core\\src\\SudokuSolver.Entities\\SudokuSolver.Entities.csproj": {
+              "projectPath": "E:\\Projects\\SudokuSolver\\SudokuSolver.Core\\src\\SudokuSolver.Entities\\SudokuSolver.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
